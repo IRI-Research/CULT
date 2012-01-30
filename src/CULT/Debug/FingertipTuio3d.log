@@ -1,0 +1,54 @@
+﻿Build started 01/06/2011 00:23:37.
+     1>Project "C:\Users\MASTEON\Desktop\UJE\CULT\FingertipTuio3d\FingertipTuio3d\FingertipTuio3d.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\CULT.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+       ManifestResourceCompile:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\CULT.exe.embed.manifest.res" Debug\CULT_manifest.rc 
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\MASTEON\Desktop\UJE\CULT\FingertipTuio3d\Debug\CULT.exe" /INCREMENTAL /NOLOGO /LIBPATH:C:\SDL\lib ws2_32.lib winmm.lib SDL.lib SDLmain.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\CULT.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\MASTEON\Desktop\UJE\CULT\FingertipTuio3d\Debug\CULT.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\MASTEON\Desktop\UJE\CULT\FingertipTuio3d\Debug\CULT.lib" /MACHINE:X86 Debug\CULT.exe.embed.manifest.res
+         Debug\ChromaticPoint.obj
+         Debug\cultWindow.obj
+         Debug\main.obj
+         Debug\IpEndpointName.obj
+         Debug\NetworkingUtils.obj
+         Debug\UdpSocket.obj
+         Debug\OscOutboundPacketStream.obj
+         Debug\OscPrintReceivedElements.obj
+         Debug\OscReceivedElements.obj
+         Debug\OscTypes.obj
+         Debug\TuioClient.obj
+         Debug\TuioServer.obj
+         Debug\TuioTime.obj
+            Creating library C:\Users\MASTEON\Desktop\UJE\CULT\FingertipTuio3d\Debug\CULT.lib and object C:\Users\MASTEON\Desktop\UJE\CULT\FingertipTuio3d\Debug\CULT.exp
+     1>MSVCRTD.lib(cinitexe.obj) : warning LNK4098: defaultlib 'msvcrt.lib' conflicts with use of other libs; use /NODEFAULTLIB:library
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\CULT.exe.embed.manifest" /manifest Debug\CULT.exe.intermediate.manifest
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\CULT.exe.embed.manifest.res" Debug\CULT_manifest.rc 
+       LinkEmbedManifest:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\MASTEON\Desktop\UJE\CULT\FingertipTuio3d\Debug\CULT.exe" /INCREMENTAL /NOLOGO /LIBPATH:C:\SDL\lib ws2_32.lib winmm.lib SDL.lib SDLmain.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\CULT.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\MASTEON\Desktop\UJE\CULT\FingertipTuio3d\Debug\CULT.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\MASTEON\Desktop\UJE\CULT\FingertipTuio3d\Debug\CULT.lib" /MACHINE:X86 Debug\CULT.exe.embed.manifest.res
+         Debug\ChromaticPoint.obj
+         Debug\cultWindow.obj
+         Debug\main.obj
+         Debug\IpEndpointName.obj
+         Debug\NetworkingUtils.obj
+         Debug\UdpSocket.obj
+         Debug\OscOutboundPacketStream.obj
+         Debug\OscPrintReceivedElements.obj
+         Debug\OscReceivedElements.obj
+         Debug\OscTypes.obj
+         Debug\TuioClient.obj
+         Debug\TuioServer.obj
+         Debug\TuioTime.obj
+            Creating library C:\Users\MASTEON\Desktop\UJE\CULT\FingertipTuio3d\Debug\CULT.lib and object C:\Users\MASTEON\Desktop\UJE\CULT\FingertipTuio3d\Debug\CULT.exp
+     1>MSVCRTD.lib(cinitexe.obj) : warning LNK4098: defaultlib 'msvcrt.lib' conflicts with use of other libs; use /NODEFAULTLIB:library
+         FingertipTuio3d.vcxproj -> C:\Users\MASTEON\Desktop\UJE\CULT\FingertipTuio3d\Debug\CULT.exe
+       FinalizeBuildStatus:
+         Deleting file "Debug\CULT.unsuccessfulbuild".
+         Touching "Debug\CULT.lastbuildstate".
+     1>Done Building Project "C:\Users\MASTEON\Desktop\UJE\CULT\FingertipTuio3d\FingertipTuio3d\FingertipTuio3d.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:04.73

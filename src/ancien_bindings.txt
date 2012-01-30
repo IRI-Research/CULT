@@ -1,0 +1,12 @@
+HIP HOP
+if(approxDist[size-3] > 80. && approxDist[size-3] < 120 && approxDist[size-2] > 100 && approxDist[size-2] < 120 && approxDist[size-1] > 100 && approxDist[size-1] < 120)
+ELECTRO
+if(approxDist[size-3] > 50. && approxDist[size-3] < 80 && approxDist[size-2] > 120 && approxDist[size-2] < 140 && approxDist[size-1] > 130 && approxDist[size-1] < 140)
+PENCIL
+if(approxDist[size-1] > 150 && approxDist[size-1] < 160)
+COLOR
+if(d1 > 110 && d1 < 130 && d2 > 110 && d2 < 125)
+ROCK
+if(approxDist[size-2] > 120 && approxDist[size-2] < 145 && approxDist[size-1] > 130 && approxDist[size-1] < 160)
+SAVE
+if(approxDist[size-2] > 150 && approxDist[size-2] < 170 && approxDist[size-1] > 185 && approxDist[size-1] < 250)
